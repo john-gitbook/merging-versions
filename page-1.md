@@ -1,11 +1,3 @@
 # Page 1
 
-
-Hello world
-
-Hi world
-
-
-
-How is it going?
-
+Removed all the old content
