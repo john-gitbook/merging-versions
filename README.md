@@ -1,3 +1,3 @@
 # Page
 
-This is a typo I'm fixing
+fixing a typo
